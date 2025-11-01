@@ -12,6 +12,7 @@
 <br/>
 <br/>
 
+<!--
 ### Estatísticas
 
 <img
