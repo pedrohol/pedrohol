@@ -1,7 +1,4 @@
 ## 💿 Pedro Oliveira
-
-Desenvolvedor Android
----
  <img 
    align = "left"
    width = "30px"
