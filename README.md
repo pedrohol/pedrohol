@@ -1,4 +1,5 @@
 ## 💿 Pedro Oliveira
+
 Desenvolvedor Mobile Android
 
  <img 
@@ -11,11 +12,9 @@ Desenvolvedor Mobile Android
   align = "left"
   width = "30px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" />
-
+-->
 <br/>
-<br/>
 
-<!--
 ### Estatísticas
 
 <img
@@ -23,7 +22,7 @@ Desenvolvedor Mobile Android
   height = "200"
   syle = "padding-right: 10px"
   src = "https://github-readme-stats.vercel.app/api?username=pedrohol&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-
+<!--
   <img
   align = "left"
   height = "200"
