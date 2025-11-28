@@ -1,6 +1,12 @@
 ## 💿 Pedro Oliveira
 
-Desenvolvedor Mobile Android
+Estudando desenvolvimento nátivo Android.
+
+### 📚 Educação
+Curso de Hardware - Cenaic.
+
+Cursando Análise e Desenvolvimento de Sistemas - UniCesumar.
+
 <!--
  <img 
    align = "left"
