@@ -1,6 +1,6 @@
 ## 💿 Pedro Oliveira
 
-Estudando desenvolvimento nátivo Android.
+Estudando desenvolvimento nativo Android.
 
 ### 📚 Educação
 Curso de Hardware - Cenaic.
