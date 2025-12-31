@@ -1,13 +1,14 @@
 ## 💿 Pedro Oliveira
 
-Estudando desenvolvimento nativo Android.
+Desenvolvedor Android.
 
+<!--
 ### 📚 Educação
 Curso de Hardware - Cenaic.
 
 Cursando Análise e Desenvolvimento de Sistemas - UniCesumar.
 
-<!--
+
  <img 
    align = "left"
    width = "30px"
