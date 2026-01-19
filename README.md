@@ -2,7 +2,7 @@
 
 📱 Desenvolvedor Android.
 
-Curioso sobre tecnologia e desenvolvimento mobile. Atualmente estudando tecnologia cursando Análise e Desenvolvimento de Sistemas, buscando desenvolver meus conhecimentos em Android.
+Curioso sobre tecnologia e desenvolvimento mobile. Atualmente, curso Análise e Desenvolvimento de Sistemas e busco desenvolver meus conhecimentos em Android.
 
 <!--
 **pedrohol/pedrohol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
