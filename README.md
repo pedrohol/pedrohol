@@ -1,6 +1,4 @@
-## Pedro Oliveira 
-
-📱 Desenvolvedor Android.
+# Pedro Oliveira 
 
 Curioso sobre tecnologia e desenvolvimento mobile. Atualmente, curso Análise e Desenvolvimento de Sistemas e busco desenvolver meus conhecimentos em Android.
 
