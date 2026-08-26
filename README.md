@@ -1,8 +1,9 @@
 # Pedro Oliveira 
 
+<!--
 Curioso sobre tecnologia e desenvolvimento mobile. Atualmente, curso Análise e Desenvolvimento de Sistemas e busco desenvolver meus conhecimentos em Android.
 
-<!--
+
 **pedrohol/pedrohol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
