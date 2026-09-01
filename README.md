@@ -1,5 +1,8 @@
 # Pedro Oliveira 
 
+📙 Cursando Análise e Desenvolvimento de Sistemas
+💡 Estudando Desenvolvimento Mobile e DevOps
+
 <!--
 Curioso sobre tecnologia e desenvolvimento mobile. Atualmente, curso Análise e Desenvolvimento de Sistemas e busco desenvolver meus conhecimentos em Android.
 
