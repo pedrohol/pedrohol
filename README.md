@@ -1,6 +1,7 @@
 # Pedro Oliveira 
 
 📙 Cursando Análise e Desenvolvimento de Sistemas
+
 💡 Estudando Desenvolvimento Mobile e DevOps
 
 <!--
